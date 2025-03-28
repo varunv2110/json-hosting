@@ -1,0 +1,252 @@
+[
+    {
+        "medium": "search",
+        "source": "Bing",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 141
+    },
+    {
+        "medium": "social",
+        "source": "Twitter",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 30
+    },
+    {
+        "medium": "social",
+        "source": "Reddit",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 2
+    },
+    {
+        "medium": "links",
+        "source": "EMail",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 2
+    },
+    {
+        "medium": "internal",
+        "source": "economictimes.indiatimes.com",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 14565
+    },
+    {
+        "medium": "social",
+        "source": "LinkedIn",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 25
+    },
+    {
+        "medium": "search",
+        "source": "Yahoo Search!",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 36
+    },
+    {
+        "medium": "internal",
+        "source": "m-economictimes-com.cdn.ampproject.org",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 23
+    },
+    {
+        "medium": "google",
+        "source": "News Showcase",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 28
+    },
+    {
+        "medium": "google",
+        "source": "Google News",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 153
+    },
+    {
+        "medium": "direct",
+        "source": "Direct",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 1635
+    },
+    {
+        "medium": "internal",
+        "source": "m.economictimes.com",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 281
+    },
+    {
+        "medium": "social",
+        "source": "Instagram",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 2
+    },
+    {
+        "medium": "social",
+        "source": "Pinterest",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 1
+    },
+    {
+        "medium": "search",
+        "source": "Google Search",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 4890
+    },
+    {
+        "medium": "search",
+        "source": "DuckDuckGo",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 15
+    },
+    {
+        "medium": "social",
+        "source": "Pocket",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 84
+    },
+    {
+        "medium": "search",
+        "source": "Ecosia",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 3
+    },
+    {
+        "medium": "google",
+        "source": "Google Discover",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 2595
+    },
+    {
+        "medium": "links",
+        "source": "Newsletter",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 288
+    },
+    {
+        "medium": "links",
+        "source": "AMP Project",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 7
+    },
+    {
+        "medium": "social",
+        "source": "Facebook",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 21
+    },
+    {
+        "medium": "links",
+        "source": "India Times",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 38
+    },
+    {
+        "medium": "links",
+        "source": "Denmark",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 3
+    },
+    {
+        "medium": "links",
+        "source": "Others",
+        "platform": null,
+        "country": null,
+        "city": null,
+        "visitorType": null,
+        "visitorCategory": null,
+        "count": 137
+    }
+]
