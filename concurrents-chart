@@ -1,0 +1,3293 @@
+{
+    "1742495400000": {
+        "1742495400000": {
+            "VISTOR_TYPE": {
+                "new": 1873,
+                "returning": 7145,
+                "loyal": 2794,
+                "unknown": 10645
+            },
+            "MEDIUM": {
+                "direct": 4473,
+                "google": 6467,
+                "internal": 4100,
+                "links": 340,
+                "search": 7780,
+                "social": 205
+            },
+            "DEVICE": {
+                "Web": 6371,
+                "Mweb": 4096,
+                "Amp": 10628,
+                "Android": 533,
+                "Ios": 450
+            }
+        },
+        "1742496000000": {
+            "VISTOR_TYPE": {
+                "new": 1795,
+                "returning": 6972,
+                "loyal": 2638,
+                "unknown": 10202
+            },
+            "MEDIUM": {
+                "direct": 4331,
+                "google": 6142,
+                "internal": 3969,
+                "links": 344,
+                "search": 7482,
+                "social": 209
+            },
+            "DEVICE": {
+                "Web": 6135,
+                "Mweb": 3976,
+                "Amp": 10183,
+                "Android": 483,
+                "Ios": 431
+            }
+        },
+        "1742496600000": {
+            "VISTOR_TYPE": {
+                "new": 1846,
+                "returning": 6718,
+                "loyal": 2552,
+                "unknown": 9879
+            },
+            "MEDIUM": {
+                "direct": 4172,
+                "google": 5865,
+                "internal": 3848,
+                "links": 329,
+                "search": 7399,
+                "social": 244
+            },
+            "DEVICE": {
+                "Web": 5995,
+                "Mweb": 3903,
+                "Amp": 9864,
+                "Android": 432,
+                "Ios": 400
+            }
+        },
+        "1742497200000": {
+            "VISTOR_TYPE": {
+                "new": 1704,
+                "returning": 6547,
+                "loyal": 2466,
+                "unknown": 9809
+            },
+            "MEDIUM": {
+                "direct": 3934,
+                "google": 5823,
+                "internal": 3791,
+                "links": 312,
+                "search": 7251,
+                "social": 208
+            },
+            "DEVICE": {
+                "Web": 5763,
+                "Mweb": 3840,
+                "Amp": 9796,
+                "Android": 388,
+                "Ios": 387
+            }
+        },
+        "1742497800000": {
+            "VISTOR_TYPE": {
+                "new": 1725,
+                "returning": 6546,
+                "loyal": 2432,
+                "unknown": 9225
+            },
+            "MEDIUM": {
+                "direct": 4067,
+                "google": 5681,
+                "internal": 3658,
+                "links": 287,
+                "search": 6794,
+                "social": 175
+            },
+            "DEVICE": {
+                "Web": 5545,
+                "Mweb": 4146,
+                "Amp": 9221,
+                "Android": 364,
+                "Ios": 268
+            }
+        },
+        "1742498400000": {
+            "VISTOR_TYPE": {
+                "new": 1721,
+                "returning": 6282,
+                "loyal": 2336,
+                "unknown": 9123
+            },
+            "MEDIUM": {
+                "direct": 3965,
+                "google": 5515,
+                "internal": 3649,
+                "links": 265,
+                "search": 6672,
+                "social": 202
+            },
+            "DEVICE": {
+                "Web": 5416,
+                "Mweb": 3928,
+                "Amp": 9113,
+                "Android": 348,
+                "Ios": 271
+            }
+        },
+        "1742499000000": {
+            "VISTOR_TYPE": {
+                "new": 1715,
+                "returning": 6091,
+                "loyal": 2271,
+                "unknown": 8952
+            },
+            "MEDIUM": {
+                "direct": 3808,
+                "google": 5405,
+                "internal": 3571,
+                "links": 299,
+                "search": 6611,
+                "social": 193
+            },
+            "DEVICE": {
+                "Web": 5305,
+                "Mweb": 3868,
+                "Amp": 8946,
+                "Android": 311,
+                "Ios": 239
+            }
+        },
+        "1742499600000": {
+            "VISTOR_TYPE": {
+                "new": 1610,
+                "returning": 5941,
+                "loyal": 2179,
+                "unknown": 8499
+            },
+            "MEDIUM": {
+                "direct": 3677,
+                "google": 5140,
+                "internal": 3522,
+                "links": 277,
+                "search": 6290,
+                "social": 158
+            },
+            "DEVICE": {
+                "Web": 5071,
+                "Mweb": 3757,
+                "Amp": 8490,
+                "Android": 285,
+                "Ios": 289
+            }
+        },
+        "1742500200000": {
+            "VISTOR_TYPE": {
+                "new": 1677,
+                "returning": 5778,
+                "loyal": 2074,
+                "unknown": 8233
+            },
+            "MEDIUM": {
+                "direct": 3624,
+                "google": 4997,
+                "internal": 3320,
+                "links": 245,
+                "search": 6143,
+                "social": 160
+            },
+            "DEVICE": {
+                "Web": 4911,
+                "Mweb": 3715,
+                "Amp": 8225,
+                "Android": 307,
+                "Ios": 266
+            }
+        },
+        "1742500800000": {
+            "VISTOR_TYPE": {
+                "new": 1567,
+                "returning": 5598,
+                "loyal": 2094,
+                "unknown": 8182
+            },
+            "MEDIUM": {
+                "direct": 3499,
+                "google": 4943,
+                "internal": 3331,
+                "links": 242,
+                "search": 6067,
+                "social": 151
+            },
+            "DEVICE": {
+                "Web": 4941,
+                "Mweb": 3506,
+                "Amp": 8174,
+                "Android": 262,
+                "Ios": 260
+            }
+        },
+        "1742501400000": {
+            "VISTOR_TYPE": {
+                "new": 1533,
+                "returning": 5396,
+                "loyal": 1989,
+                "unknown": 7704
+            },
+            "MEDIUM": {
+                "direct": 3314,
+                "google": 4612,
+                "internal": 3232,
+                "links": 227,
+                "search": 5825,
+                "social": 125
+            },
+            "DEVICE": {
+                "Web": 4765,
+                "Mweb": 3375,
+                "Amp": 7695,
+                "Android": 246,
+                "Ios": 233
+            }
+        },
+        "1742502000000": {
+            "VISTOR_TYPE": {
+                "new": 1441,
+                "returning": 5294,
+                "loyal": 1899,
+                "unknown": 7764
+            },
+            "MEDIUM": {
+                "direct": 3144,
+                "google": 4625,
+                "internal": 3171,
+                "links": 245,
+                "search": 5786,
+                "social": 139
+            },
+            "DEVICE": {
+                "Web": 4657,
+                "Mweb": 3226,
+                "Amp": 7758,
+                "Android": 214,
+                "Ios": 237
+            }
+        },
+        "1742502600000": {
+            "VISTOR_TYPE": {
+                "new": 1472,
+                "returning": 5065,
+                "loyal": 1824,
+                "unknown": 7700
+            },
+            "MEDIUM": {
+                "direct": 3099,
+                "google": 4593,
+                "internal": 3014,
+                "links": 235,
+                "search": 5634,
+                "social": 119
+            },
+            "DEVICE": {
+                "Web": 4474,
+                "Mweb": 3189,
+                "Amp": 7694,
+                "Android": 217,
+                "Ios": 218
+            }
+        },
+        "1742503200000": {
+            "VISTOR_TYPE": {
+                "new": 1442,
+                "returning": 5144,
+                "loyal": 1808,
+                "unknown": 7499
+            },
+            "MEDIUM": {
+                "direct": 3169,
+                "google": 4446,
+                "internal": 3022,
+                "links": 220,
+                "search": 5570,
+                "social": 144
+            },
+            "DEVICE": {
+                "Web": 4494,
+                "Mweb": 3189,
+                "Amp": 7490,
+                "Android": 210,
+                "Ios": 227
+            }
+        },
+        "1742503800000": {
+            "VISTOR_TYPE": {
+                "new": 1394,
+                "returning": 4755,
+                "loyal": 1701,
+                "unknown": 7822
+            },
+            "MEDIUM": {
+                "direct": 2891,
+                "google": 4604,
+                "internal": 2870,
+                "links": 216,
+                "search": 5589,
+                "social": 142
+            },
+            "DEVICE": {
+                "Web": 4162,
+                "Mweb": 3043,
+                "Amp": 7815,
+                "Android": 172,
+                "Ios": 198
+            }
+        },
+        "1742504400000": {
+            "VISTOR_TYPE": {
+                "new": 1386,
+                "returning": 4698,
+                "loyal": 1704,
+                "unknown": 7565
+            },
+            "MEDIUM": {
+                "direct": 2827,
+                "google": 4468,
+                "internal": 2861,
+                "links": 210,
+                "search": 5517,
+                "social": 107
+            },
+            "DEVICE": {
+                "Web": 4172,
+                "Mweb": 2980,
+                "Amp": 7553,
+                "Android": 167,
+                "Ios": 216
+            }
+        },
+        "1742505000000": {
+            "VISTOR_TYPE": {
+                "new": 1242,
+                "returning": 4503,
+                "loyal": 1616,
+                "unknown": 7494
+            },
+            "MEDIUM": {
+                "direct": 2683,
+                "google": 4397,
+                "internal": 2761,
+                "links": 198,
+                "search": 5347,
+                "social": 103
+            },
+            "DEVICE": {
+                "Web": 3908,
+                "Mweb": 2831,
+                "Amp": 7488,
+                "Android": 183,
+                "Ios": 193
+            }
+        },
+        "1742505600000": {
+            "VISTOR_TYPE": {
+                "new": 1291,
+                "returning": 4341,
+                "loyal": 1596,
+                "unknown": 7696
+            },
+            "MEDIUM": {
+                "direct": 2718,
+                "google": 4509,
+                "internal": 2713,
+                "links": 216,
+                "search": 5294,
+                "social": 104
+            },
+            "DEVICE": {
+                "Web": 3772,
+                "Mweb": 2834,
+                "Amp": 7689,
+                "Android": 192,
+                "Ios": 176
+            }
+        },
+        "1742506200000": {
+            "VISTOR_TYPE": {
+                "new": 1251,
+                "returning": 4335,
+                "loyal": 1499,
+                "unknown": 7898
+            },
+            "MEDIUM": {
+                "direct": 2648,
+                "google": 4577,
+                "internal": 2630,
+                "links": 185,
+                "search": 5491,
+                "social": 98
+            },
+            "DEVICE": {
+                "Web": 3675,
+                "Mweb": 2825,
+                "Amp": 7891,
+                "Android": 173,
+                "Ios": 199
+            }
+        },
+        "1742506800000": {
+            "VISTOR_TYPE": {
+                "new": 1203,
+                "returning": 4226,
+                "loyal": 1478,
+                "unknown": 7685
+            },
+            "MEDIUM": {
+                "direct": 2663,
+                "google": 4471,
+                "internal": 2509,
+                "links": 201,
+                "search": 5234,
+                "social": 86
+            },
+            "DEVICE": {
+                "Web": 3533,
+                "Mweb": 2745,
+                "Amp": 7681,
+                "Android": 182,
+                "Ios": 224
+            }
+        },
+        "1742507400000": {
+            "VISTOR_TYPE": {
+                "new": 1203,
+                "returning": 4220,
+                "loyal": 1481,
+                "unknown": 7680
+            },
+            "MEDIUM": {
+                "direct": 2560,
+                "google": 4466,
+                "internal": 2501,
+                "links": 199,
+                "search": 5321,
+                "social": 106
+            },
+            "DEVICE": {
+                "Web": 3437,
+                "Mweb": 2826,
+                "Amp": 7677,
+                "Android": 151,
+                "Ios": 254
+            }
+        },
+        "1742508000000": {
+            "VISTOR_TYPE": {
+                "new": 1189,
+                "returning": 4072,
+                "loyal": 1433,
+                "unknown": 7634
+            },
+            "MEDIUM": {
+                "direct": 2490,
+                "google": 4436,
+                "internal": 2378,
+                "links": 196,
+                "search": 5229,
+                "social": 123
+            },
+            "DEVICE": {
+                "Web": 3370,
+                "Mweb": 2649,
+                "Amp": 7632,
+                "Android": 180,
+                "Ios": 257
+            }
+        },
+        "1742508600000": {
+            "VISTOR_TYPE": {
+                "new": 1143,
+                "returning": 3994,
+                "loyal": 1429,
+                "unknown": 7653
+            },
+            "MEDIUM": {
+                "direct": 2476,
+                "google": 4381,
+                "internal": 2374,
+                "links": 151,
+                "search": 5270,
+                "social": 93
+            },
+            "DEVICE": {
+                "Web": 3358,
+                "Mweb": 2555,
+                "Amp": 7648,
+                "Android": 174,
+                "Ios": 242
+            }
+        },
+        "1742509200000": {
+            "VISTOR_TYPE": {
+                "new": 1127,
+                "returning": 3943,
+                "loyal": 1393,
+                "unknown": 7703
+            },
+            "MEDIUM": {
+                "direct": 2466,
+                "google": 4449,
+                "internal": 2340,
+                "links": 183,
+                "search": 5175,
+                "social": 88
+            },
+            "DEVICE": {
+                "Web": 3283,
+                "Mweb": 2521,
+                "Amp": 7702,
+                "Android": 186,
+                "Ios": 232
+            }
+        },
+        "1742509800000": {
+            "VISTOR_TYPE": {
+                "new": 1145,
+                "returning": 3917,
+                "loyal": 1369,
+                "unknown": 7787
+            },
+            "MEDIUM": {
+                "direct": 2403,
+                "google": 4583,
+                "internal": 2321,
+                "links": 193,
+                "search": 5210,
+                "social": 100
+            },
+            "DEVICE": {
+                "Web": 3090,
+                "Mweb": 2663,
+                "Amp": 7781,
+                "Android": 192,
+                "Ios": 254
+            }
+        },
+        "1742510400000": {
+            "VISTOR_TYPE": {
+                "new": 1110,
+                "returning": 3845,
+                "loyal": 1355,
+                "unknown": 7714
+            },
+            "MEDIUM": {
+                "direct": 2413,
+                "google": 4601,
+                "internal": 2261,
+                "links": 174,
+                "search": 5035,
+                "social": 93
+            },
+            "DEVICE": {
+                "Web": 3047,
+                "Mweb": 2606,
+                "Amp": 7712,
+                "Android": 178,
+                "Ios": 259
+            }
+        },
+        "1742511000000": {
+            "VISTOR_TYPE": {
+                "new": 1181,
+                "returning": 3949,
+                "loyal": 1340,
+                "unknown": 8015
+            },
+            "MEDIUM": {
+                "direct": 2447,
+                "google": 4771,
+                "internal": 2312,
+                "links": 190,
+                "search": 5230,
+                "social": 101
+            },
+            "DEVICE": {
+                "Web": 3052,
+                "Mweb": 2689,
+                "Amp": 8013,
+                "Android": 203,
+                "Ios": 266
+            }
+        },
+        "1742511600000": {
+            "VISTOR_TYPE": {
+                "new": 1144,
+                "returning": 3846,
+                "loyal": 1351,
+                "unknown": 7795
+            },
+            "MEDIUM": {
+                "direct": 2420,
+                "google": 4632,
+                "internal": 2223,
+                "links": 168,
+                "search": 5119,
+                "social": 87
+            },
+            "DEVICE": {
+                "Web": 2931,
+                "Mweb": 2699,
+                "Amp": 7789,
+                "Android": 210,
+                "Ios": 268
+            }
+        },
+        "1742512200000": {
+            "VISTOR_TYPE": {
+                "new": 1155,
+                "returning": 3810,
+                "loyal": 1337,
+                "unknown": 7750
+            },
+            "MEDIUM": {
+                "direct": 2419,
+                "google": 4554,
+                "internal": 2166,
+                "links": 196,
+                "search": 5136,
+                "social": 98
+            },
+            "DEVICE": {
+                "Web": 2875,
+                "Mweb": 2731,
+                "Amp": 7746,
+                "Android": 206,
+                "Ios": 265
+            }
+        },
+        "1742512800000": {
+            "VISTOR_TYPE": {
+                "new": 1175,
+                "returning": 3801,
+                "loyal": 1392,
+                "unknown": 8001
+            },
+            "MEDIUM": {
+                "direct": 2457,
+                "google": 4820,
+                "internal": 2234,
+                "links": 176,
+                "search": 5116,
+                "social": 101
+            },
+            "DEVICE": {
+                "Web": 2874,
+                "Mweb": 2775,
+                "Amp": 7996,
+                "Android": 220,
+                "Ios": 272
+            }
+        },
+        "1742513400000": {
+            "VISTOR_TYPE": {
+                "new": 1090,
+                "returning": 3868,
+                "loyal": 1441,
+                "unknown": 8440
+            },
+            "MEDIUM": {
+                "direct": 2475,
+                "google": 5047,
+                "internal": 2313,
+                "links": 179,
+                "search": 5315,
+                "social": 100
+            },
+            "DEVICE": {
+                "Web": 2926,
+                "Mweb": 2768,
+                "Amp": 8438,
+                "Android": 228,
+                "Ios": 249
+            }
+        },
+        "1742514000000": {
+            "VISTOR_TYPE": {
+                "new": 1291,
+                "returning": 4071,
+                "loyal": 1439,
+                "unknown": 8751
+            },
+            "MEDIUM": {
+                "direct": 2762,
+                "google": 5288,
+                "internal": 2289,
+                "links": 187,
+                "search": 5423,
+                "social": 130
+            },
+            "DEVICE": {
+                "Web": 2925,
+                "Mweb": 2959,
+                "Amp": 8749,
+                "Android": 297,
+                "Ios": 347
+            }
+        },
+        "1742514600000": {
+            "VISTOR_TYPE": {
+                "new": 1261,
+                "returning": 4220,
+                "loyal": 1462,
+                "unknown": 9114
+            },
+            "MEDIUM": {
+                "direct": 2822,
+                "google": 5462,
+                "internal": 2359,
+                "links": 206,
+                "search": 5663,
+                "social": 103
+            },
+            "DEVICE": {
+                "Web": 2906,
+                "Mweb": 3079,
+                "Amp": 9112,
+                "Android": 354,
+                "Ios": 331
+            }
+        },
+        "1742515200000": {
+            "VISTOR_TYPE": {
+                "new": 1214,
+                "returning": 4286,
+                "loyal": 1540,
+                "unknown": 9008
+            },
+            "MEDIUM": {
+                "direct": 2886,
+                "google": 5452,
+                "internal": 2354,
+                "links": 214,
+                "search": 5557,
+                "social": 113
+            },
+            "DEVICE": {
+                "Web": 2983,
+                "Mweb": 3050,
+                "Amp": 9005,
+                "Android": 367,
+                "Ios": 369
+            }
+        },
+        "1742515800000": {
+            "VISTOR_TYPE": {
+                "new": 1256,
+                "returning": 4277,
+                "loyal": 1594,
+                "unknown": 8898
+            },
+            "MEDIUM": {
+                "direct": 2974,
+                "google": 5188,
+                "internal": 2429,
+                "links": 241,
+                "search": 5587,
+                "social": 137
+            },
+            "DEVICE": {
+                "Web": 2899,
+                "Mweb": 3191,
+                "Amp": 8896,
+                "Android": 395,
+                "Ios": 364
+            }
+        },
+        "1742516400000": {
+            "VISTOR_TYPE": {
+                "new": 1235,
+                "returning": 4313,
+                "loyal": 1649,
+                "unknown": 9211
+            },
+            "MEDIUM": {
+                "direct": 3105,
+                "google": 5427,
+                "internal": 2456,
+                "links": 209,
+                "search": 5670,
+                "social": 124
+            },
+            "DEVICE": {
+                "Web": 2870,
+                "Mweb": 3235,
+                "Amp": 9208,
+                "Android": 437,
+                "Ios": 387
+            }
+        },
+        "1742517000000": {
+            "VISTOR_TYPE": {
+                "new": 1303,
+                "returning": 4439,
+                "loyal": 1709,
+                "unknown": 9477
+            },
+            "MEDIUM": {
+                "direct": 3180,
+                "google": 5616,
+                "internal": 2563,
+                "links": 240,
+                "search": 5771,
+                "social": 128
+            },
+            "DEVICE": {
+                "Web": 2978,
+                "Mweb": 3362,
+                "Amp": 9477,
+                "Android": 433,
+                "Ios": 410
+            }
+        },
+        "1742517600000": {
+            "VISTOR_TYPE": {
+                "new": 1377,
+                "returning": 4678,
+                "loyal": 1933,
+                "unknown": 9704
+            },
+            "MEDIUM": {
+                "direct": 3497,
+                "google": 5790,
+                "internal": 2773,
+                "links": 235,
+                "search": 5877,
+                "social": 138
+            },
+            "DEVICE": {
+                "Web": 3185,
+                "Mweb": 3524,
+                "Amp": 9703,
+                "Android": 511,
+                "Ios": 428
+            }
+        },
+        "1742518200000": {
+            "VISTOR_TYPE": {
+                "new": 1497,
+                "returning": 4958,
+                "loyal": 2048,
+                "unknown": 10050
+            },
+            "MEDIUM": {
+                "direct": 3743,
+                "google": 6140,
+                "internal": 2876,
+                "links": 245,
+                "search": 6033,
+                "social": 135
+            },
+            "DEVICE": {
+                "Web": 3371,
+                "Mweb": 3728,
+                "Amp": 10049,
+                "Android": 572,
+                "Ios": 491
+            }
+        },
+        "1742518800000": {
+            "VISTOR_TYPE": {
+                "new": 1627,
+                "returning": 5172,
+                "loyal": 2189,
+                "unknown": 10320
+            },
+            "MEDIUM": {
+                "direct": 3971,
+                "google": 6264,
+                "internal": 3001,
+                "links": 279,
+                "search": 6289,
+                "social": 144
+            },
+            "DEVICE": {
+                "Web": 3634,
+                "Mweb": 3897,
+                "Amp": 10319,
+                "Android": 597,
+                "Ios": 525
+            }
+        },
+        "1742519400000": {
+            "VISTOR_TYPE": {
+                "new": 1494,
+                "returning": 5243,
+                "loyal": 2284,
+                "unknown": 10616
+            },
+            "MEDIUM": {
+                "direct": 3899,
+                "google": 6373,
+                "internal": 2958,
+                "links": 282,
+                "search": 6535,
+                "social": 181
+            },
+            "DEVICE": {
+                "Web": 3606,
+                "Mweb": 3928,
+                "Amp": 10613,
+                "Android": 640,
+                "Ios": 523
+            }
+        },
+        "1742520000000": {
+            "VISTOR_TYPE": {
+                "new": 1562,
+                "returning": 5545,
+                "loyal": 2374,
+                "unknown": 10915
+            },
+            "MEDIUM": {
+                "direct": 4203,
+                "google": 6498,
+                "internal": 3172,
+                "links": 332,
+                "search": 6714,
+                "social": 164
+            },
+            "DEVICE": {
+                "Web": 3724,
+                "Mweb": 4163,
+                "Amp": 10912,
+                "Android": 655,
+                "Ios": 598
+            }
+        },
+        "1742520600000": {
+            "VISTOR_TYPE": {
+                "new": 1655,
+                "returning": 5765,
+                "loyal": 2600,
+                "unknown": 11215
+            },
+            "MEDIUM": {
+                "direct": 4446,
+                "google": 6643,
+                "internal": 3339,
+                "links": 328,
+                "search": 6987,
+                "social": 168
+            },
+            "DEVICE": {
+                "Web": 3940,
+                "Mweb": 4400,
+                "Amp": 11210,
+                "Android": 684,
+                "Ios": 623
+            }
+        },
+        "1742521200000": {
+            "VISTOR_TYPE": {
+                "new": 1781,
+                "returning": 6012,
+                "loyal": 2773,
+                "unknown": 11658
+            },
+            "MEDIUM": {
+                "direct": 4853,
+                "google": 6998,
+                "internal": 3466,
+                "links": 350,
+                "search": 7132,
+                "social": 166
+            },
+            "DEVICE": {
+                "Web": 4092,
+                "Mweb": 4634,
+                "Amp": 11656,
+                "Android": 799,
+                "Ios": 661
+            }
+        },
+        "1742521800000": {
+            "VISTOR_TYPE": {
+                "new": 1761,
+                "returning": 6194,
+                "loyal": 2851,
+                "unknown": 11880
+            },
+            "MEDIUM": {
+                "direct": 4921,
+                "google": 7070,
+                "internal": 3587,
+                "links": 400,
+                "search": 7271,
+                "social": 162
+            },
+            "DEVICE": {
+                "Web": 4223,
+                "Mweb": 4743,
+                "Amp": 11880,
+                "Android": 799,
+                "Ios": 671
+            }
+        },
+        "1742522400000": {
+            "VISTOR_TYPE": {
+                "new": 1852,
+                "returning": 6497,
+                "loyal": 2932,
+                "unknown": 11681
+            },
+            "MEDIUM": {
+                "direct": 4986,
+                "google": 7025,
+                "internal": 3728,
+                "links": 403,
+                "search": 7336,
+                "social": 183
+            },
+            "DEVICE": {
+                "Web": 4590,
+                "Mweb": 4774,
+                "Amp": 11679,
+                "Android": 827,
+                "Ios": 645
+            }
+        },
+        "1742523000000": {
+            "VISTOR_TYPE": {
+                "new": 1922,
+                "returning": 6429,
+                "loyal": 2984,
+                "unknown": 11755
+            },
+            "MEDIUM": {
+                "direct": 4962,
+                "google": 7175,
+                "internal": 3719,
+                "links": 412,
+                "search": 7325,
+                "social": 179
+            },
+            "DEVICE": {
+                "Web": 4684,
+                "Mweb": 4869,
+                "Amp": 11751,
+                "Android": 776,
+                "Ios": 592
+            }
+        },
+        "1742523600000": {
+            "VISTOR_TYPE": {
+                "new": 2023,
+                "returning": 6770,
+                "loyal": 3178,
+                "unknown": 11862
+            },
+            "MEDIUM": {
+                "direct": 5315,
+                "google": 7211,
+                "internal": 3966,
+                "links": 420,
+                "search": 7460,
+                "social": 222
+            },
+            "DEVICE": {
+                "Web": 4935,
+                "Mweb": 5021,
+                "Amp": 11861,
+                "Android": 868,
+                "Ios": 708
+            }
+        },
+        "1742524200000": {
+            "VISTOR_TYPE": {
+                "new": 2008,
+                "returning": 7118,
+                "loyal": 3222,
+                "unknown": 11960
+            },
+            "MEDIUM": {
+                "direct": 5620,
+                "google": 7140,
+                "internal": 4119,
+                "links": 408,
+                "search": 7660,
+                "social": 197
+            },
+            "DEVICE": {
+                "Web": 5254,
+                "Mweb": 4920,
+                "Amp": 11958,
+                "Android": 948,
+                "Ios": 785
+            }
+        },
+        "1742524800000": {
+            "VISTOR_TYPE": {
+                "new": 2150,
+                "returning": 7496,
+                "loyal": 3308,
+                "unknown": 12047
+            },
+            "MEDIUM": {
+                "direct": 5936,
+                "google": 7259,
+                "internal": 4282,
+                "links": 412,
+                "search": 7783,
+                "social": 180
+            },
+            "DEVICE": {
+                "Web": 5445,
+                "Mweb": 5269,
+                "Amp": 12045,
+                "Android": 987,
+                "Ios": 794
+            }
+        },
+        "1742525400000": {
+            "VISTOR_TYPE": {
+                "new": 2207,
+                "returning": 7602,
+                "loyal": 3345,
+                "unknown": 12182
+            },
+            "MEDIUM": {
+                "direct": 6135,
+                "google": 7396,
+                "internal": 4266,
+                "links": 395,
+                "search": 7730,
+                "social": 216
+            },
+            "DEVICE": {
+                "Web": 5574,
+                "Mweb": 5049,
+                "Amp": 12180,
+                "Android": 1150,
+                "Ios": 900
+            }
+        },
+        "1742526000000": {
+            "VISTOR_TYPE": {
+                "new": 2087,
+                "returning": 7636,
+                "loyal": 3492,
+                "unknown": 12289
+            },
+            "MEDIUM": {
+                "direct": 6034,
+                "google": 7455,
+                "internal": 4383,
+                "links": 422,
+                "search": 7806,
+                "social": 201
+            },
+            "DEVICE": {
+                "Web": 5868,
+                "Mweb": 5148,
+                "Amp": 12289,
+                "Android": 986,
+                "Ios": 740
+            }
+        },
+        "1742526600000": {
+            "VISTOR_TYPE": {
+                "new": 2271,
+                "returning": 8039,
+                "loyal": 3673,
+                "unknown": 12422
+            },
+            "MEDIUM": {
+                "direct": 6422,
+                "google": 7613,
+                "internal": 4688,
+                "links": 458,
+                "search": 7933,
+                "social": 218
+            },
+            "DEVICE": {
+                "Web": 6292,
+                "Mweb": 5174,
+                "Amp": 12421,
+                "Android": 1089,
+                "Ios": 890
+            }
+        },
+        "1742527200000": {
+            "VISTOR_TYPE": {
+                "new": 2374,
+                "returning": 8402,
+                "loyal": 3887,
+                "unknown": 12178
+            },
+            "MEDIUM": {
+                "direct": 6798,
+                "google": 7532,
+                "internal": 4847,
+                "links": 441,
+                "search": 7938,
+                "social": 279
+            },
+            "DEVICE": {
+                "Web": 6825,
+                "Mweb": 5232,
+                "Amp": 12177,
+                "Android": 1133,
+                "Ios": 964
+            }
+        },
+        "1742527800000": {
+            "VISTOR_TYPE": {
+                "new": 2343,
+                "returning": 8627,
+                "loyal": 3957,
+                "unknown": 12404
+            },
+            "MEDIUM": {
+                "direct": 6756,
+                "google": 7611,
+                "internal": 4970,
+                "links": 432,
+                "search": 8302,
+                "social": 273
+            },
+            "DEVICE": {
+                "Web": 7231,
+                "Mweb": 5176,
+                "Amp": 12403,
+                "Android": 1036,
+                "Ios": 943
+            }
+        },
+        "1742528400000": {
+            "VISTOR_TYPE": {
+                "new": 2358,
+                "returning": 8719,
+                "loyal": 4205,
+                "unknown": 12280
+            },
+            "MEDIUM": {
+                "direct": 6816,
+                "google": 7749,
+                "internal": 5200,
+                "links": 447,
+                "search": 8094,
+                "social": 251
+            },
+            "DEVICE": {
+                "Web": 7800,
+                "Mweb": 5182,
+                "Amp": 12278,
+                "Android": 952,
+                "Ios": 771
+            }
+        },
+        "1742529000000": {
+            "VISTOR_TYPE": {
+                "new": 2619,
+                "returning": 9282,
+                "loyal": 4339,
+                "unknown": 12319
+            },
+            "MEDIUM": {
+                "direct": 7290,
+                "google": 7720,
+                "internal": 5283,
+                "links": 458,
+                "search": 8475,
+                "social": 307
+            },
+            "DEVICE": {
+                "Web": 8424,
+                "Mweb": 5164,
+                "Amp": 12316,
+                "Android": 1155,
+                "Ios": 864
+            }
+        },
+        "1742529600000": {
+            "VISTOR_TYPE": {
+                "new": 2499,
+                "returning": 9422,
+                "loyal": 4570,
+                "unknown": 12344
+            },
+            "MEDIUM": {
+                "direct": 7219,
+                "google": 7749,
+                "internal": 5646,
+                "links": 477,
+                "search": 8597,
+                "social": 267
+            },
+            "DEVICE": {
+                "Web": 9082,
+                "Mweb": 5027,
+                "Amp": 12341,
+                "Android": 1018,
+                "Ios": 774
+            }
+        },
+        "1742530200000": {
+            "VISTOR_TYPE": {
+                "new": 2521,
+                "returning": 9824,
+                "loyal": 4806,
+                "unknown": 12482
+            },
+            "MEDIUM": {
+                "direct": 7208,
+                "google": 8110,
+                "internal": 5935,
+                "links": 504,
+                "search": 8732,
+                "social": 277
+            },
+            "DEVICE": {
+                "Web": 9935,
+                "Mweb": 4959,
+                "Amp": 12480,
+                "Android": 917,
+                "Ios": 700
+            }
+        },
+        "1742530800000": {
+            "VISTOR_TYPE": {
+                "new": 2834,
+                "returning": 10812,
+                "loyal": 5168,
+                "unknown": 12439
+            },
+            "MEDIUM": {
+                "direct": 8106,
+                "google": 8210,
+                "internal": 6372,
+                "links": 508,
+                "search": 9007,
+                "social": 289
+            },
+            "DEVICE": {
+                "Web": 10705,
+                "Mweb": 5282,
+                "Amp": 12439,
+                "Android": 1169,
+                "Ios": 958
+            }
+        },
+        "1742531400000": {
+            "VISTOR_TYPE": {
+                "new": 2659,
+                "returning": 10795,
+                "loyal": 5423,
+                "unknown": 12817
+            },
+            "MEDIUM": {
+                "direct": 7868,
+                "google": 8387,
+                "internal": 6715,
+                "links": 533,
+                "search": 9277,
+                "social": 267
+            },
+            "DEVICE": {
+                "Web": 11621,
+                "Mweb": 5003,
+                "Amp": 12817,
+                "Android": 916,
+                "Ios": 684
+            }
+        },
+        "1742532000000": {
+            "VISTOR_TYPE": {
+                "new": 2670,
+                "returning": 11249,
+                "loyal": 5738,
+                "unknown": 12757
+            },
+            "MEDIUM": {
+                "direct": 7989,
+                "google": 8606,
+                "internal": 7028,
+                "links": 561,
+                "search": 9403,
+                "social": 277
+            },
+            "DEVICE": {
+                "Web": 12416,
+                "Mweb": 5028,
+                "Amp": 12757,
+                "Android": 866,
+                "Ios": 672
+            }
+        },
+        "1742532600000": {
+            "VISTOR_TYPE": {
+                "new": 2706,
+                "returning": 11941,
+                "loyal": 6024,
+                "unknown": 12904
+            },
+            "MEDIUM": {
+                "direct": 8156,
+                "google": 8812,
+                "internal": 7376,
+                "links": 605,
+                "search": 9781,
+                "social": 279
+            },
+            "DEVICE": {
+                "Web": 13354,
+                "Mweb": 4989,
+                "Amp": 12902,
+                "Android": 945,
+                "Ios": 711
+            }
+        },
+        "1742533200000": {
+            "VISTOR_TYPE": {
+                "new": 2757,
+                "returning": 12408,
+                "loyal": 6251,
+                "unknown": 12670
+            },
+            "MEDIUM": {
+                "direct": 8092,
+                "google": 8956,
+                "internal": 7907,
+                "links": 618,
+                "search": 9839,
+                "social": 291
+            },
+            "DEVICE": {
+                "Web": 14178,
+                "Mweb": 5068,
+                "Amp": 12667,
+                "Android": 842,
+                "Ios": 644
+            }
+        },
+        "1742533800000": {
+            "VISTOR_TYPE": {
+                "new": 2787,
+                "returning": 12903,
+                "loyal": 6377,
+                "unknown": 12728
+            },
+            "MEDIUM": {
+                "direct": 8401,
+                "google": 9102,
+                "internal": 7952,
+                "links": 631,
+                "search": 10031,
+                "social": 264
+            },
+            "DEVICE": {
+                "Web": 14895,
+                "Mweb": 5010,
+                "Amp": 12726,
+                "Android": 872,
+                "Ios": 629
+            }
+        },
+        "1742534400000": {
+            "VISTOR_TYPE": {
+                "new": 3088,
+                "returning": 13247,
+                "loyal": 6686,
+                "unknown": 12500
+            },
+            "MEDIUM": {
+                "direct": 9024,
+                "google": 8806,
+                "internal": 8254,
+                "links": 630,
+                "search": 10101,
+                "social": 255
+            },
+            "DEVICE": {
+                "Web": 15364,
+                "Mweb": 4927,
+                "Amp": 12498,
+                "Android": 1138,
+                "Ios": 840
+            }
+        },
+        "1742535000000": {
+            "VISTOR_TYPE": {
+                "new": 2951,
+                "returning": 13456,
+                "loyal": 6690,
+                "unknown": 12619
+            },
+            "MEDIUM": {
+                "direct": 8810,
+                "google": 8884,
+                "internal": 8497,
+                "links": 638,
+                "search": 10259,
+                "social": 249
+            },
+            "DEVICE": {
+                "Web": 15880,
+                "Mweb": 4847,
+                "Amp": 12616,
+                "Android": 984,
+                "Ios": 697
+            }
+        },
+        "1742535600000": {
+            "VISTOR_TYPE": {
+                "new": 2857,
+                "returning": 13390,
+                "loyal": 6823,
+                "unknown": 12388
+            },
+            "MEDIUM": {
+                "direct": 8530,
+                "google": 8837,
+                "internal": 8593,
+                "links": 650,
+                "search": 10203,
+                "social": 292
+            },
+            "DEVICE": {
+                "Web": 16055,
+                "Mweb": 5005,
+                "Amp": 12384,
+                "Android": 794,
+                "Ios": 538
+            }
+        },
+        "1742536200000": {
+            "VISTOR_TYPE": {
+                "new": 3165,
+                "returning": 13994,
+                "loyal": 6874,
+                "unknown": 12515
+            },
+            "MEDIUM": {
+                "direct": 9259,
+                "google": 8914,
+                "internal": 8639,
+                "links": 643,
+                "search": 10388,
+                "social": 344
+            },
+            "DEVICE": {
+                "Web": 16330,
+                "Mweb": 4931,
+                "Amp": 12510,
+                "Android": 1154,
+                "Ios": 900
+            }
+        },
+        "1742536800000": {
+            "VISTOR_TYPE": {
+                "new": 3067,
+                "returning": 13866,
+                "loyal": 6948,
+                "unknown": 12483
+            },
+            "MEDIUM": {
+                "direct": 8774,
+                "google": 8987,
+                "internal": 8773,
+                "links": 643,
+                "search": 10479,
+                "social": 285
+            },
+            "DEVICE": {
+                "Web": 16627,
+                "Mweb": 5037,
+                "Amp": 12480,
+                "Android": 909,
+                "Ios": 621
+            }
+        },
+        "1742537400000": {
+            "VISTOR_TYPE": {
+                "new": 3090,
+                "returning": 13948,
+                "loyal": 6976,
+                "unknown": 12947
+            },
+            "MEDIUM": {
+                "direct": 8816,
+                "google": 9132,
+                "internal": 8832,
+                "links": 636,
+                "search": 10899,
+                "social": 285
+            },
+            "DEVICE": {
+                "Web": 16919,
+                "Mweb": 4841,
+                "Amp": 12942,
+                "Android": 927,
+                "Ios": 623
+            }
+        },
+        "1742538000000": {
+            "VISTOR_TYPE": {
+                "new": 3055,
+                "returning": 14263,
+                "loyal": 6948,
+                "unknown": 12811
+            },
+            "MEDIUM": {
+                "direct": 8794,
+                "google": 9016,
+                "internal": 9102,
+                "links": 632,
+                "search": 10864,
+                "social": 285
+            },
+            "DEVICE": {
+                "Web": 17236,
+                "Mweb": 4812,
+                "Amp": 12807,
+                "Android": 894,
+                "Ios": 581
+            }
+        },
+        "1742538600000": {
+            "VISTOR_TYPE": {
+                "new": 3001,
+                "returning": 14224,
+                "loyal": 6892,
+                "unknown": 12539
+            },
+            "MEDIUM": {
+                "direct": 8532,
+                "google": 8907,
+                "internal": 9030,
+                "links": 624,
+                "search": 10869,
+                "social": 287
+            },
+            "DEVICE": {
+                "Web": 17237,
+                "Mweb": 4844,
+                "Amp": 12535,
+                "Android": 775,
+                "Ios": 547
+            }
+        },
+        "1742539200000": {
+            "VISTOR_TYPE": {
+                "new": 3024,
+                "returning": 14255,
+                "loyal": 6859,
+                "unknown": 12902
+            },
+            "MEDIUM": {
+                "direct": 8635,
+                "google": 9072,
+                "internal": 8968,
+                "links": 613,
+                "search": 10992,
+                "social": 264
+            },
+            "DEVICE": {
+                "Web": 17097,
+                "Mweb": 4877,
+                "Amp": 12899,
+                "Android": 874,
+                "Ios": 562
+            }
+        },
+        "1742539800000": {
+            "VISTOR_TYPE": {
+                "new": 3346,
+                "returning": 14556,
+                "loyal": 6745,
+                "unknown": 12896
+            },
+            "MEDIUM": {
+                "direct": 9101,
+                "google": 9264,
+                "internal": 8812,
+                "links": 607,
+                "search": 10892,
+                "social": 311
+            },
+            "DEVICE": {
+                "Web": 17024,
+                "Mweb": 4862,
+                "Amp": 12889,
+                "Android": 1147,
+                "Ios": 857
+            }
+        },
+        "1742540400000": {
+            "VISTOR_TYPE": {
+                "new": 3101,
+                "returning": 14394,
+                "loyal": 6831,
+                "unknown": 12956
+            },
+            "MEDIUM": {
+                "direct": 8433,
+                "google": 9466,
+                "internal": 9013,
+                "links": 593,
+                "search": 11061,
+                "social": 300
+            },
+            "DEVICE": {
+                "Web": 17286,
+                "Mweb": 4938,
+                "Amp": 12941,
+                "Android": 822,
+                "Ios": 566
+            }
+        },
+        "1742541000000": {
+            "VISTOR_TYPE": {
+                "new": 2976,
+                "returning": 14200,
+                "loyal": 6627,
+                "unknown": 12827
+            },
+            "MEDIUM": {
+                "direct": 8141,
+                "google": 9088,
+                "internal": 8823,
+                "links": 597,
+                "search": 11217,
+                "social": 279
+            },
+            "DEVICE": {
+                "Web": 16968,
+                "Mweb": 4783,
+                "Amp": 12820,
+                "Android": 842,
+                "Ios": 541
+            }
+        },
+        "1742541600000": {
+            "VISTOR_TYPE": {
+                "new": 2953,
+                "returning": 14090,
+                "loyal": 6557,
+                "unknown": 12739
+            },
+            "MEDIUM": {
+                "direct": 8199,
+                "google": 9097,
+                "internal": 8678,
+                "links": 609,
+                "search": 10995,
+                "social": 292
+            },
+            "DEVICE": {
+                "Web": 16774,
+                "Mweb": 4744,
+                "Amp": 12727,
+                "Android": 870,
+                "Ios": 573
+            }
+        },
+        "1742542200000": {
+            "VISTOR_TYPE": {
+                "new": 2847,
+                "returning": 13795,
+                "loyal": 6301,
+                "unknown": 12690
+            },
+            "MEDIUM": {
+                "direct": 7756,
+                "google": 9015,
+                "internal": 8465,
+                "links": 594,
+                "search": 10971,
+                "social": 279
+            },
+            "DEVICE": {
+                "Web": 16602,
+                "Mweb": 4424,
+                "Amp": 12683,
+                "Android": 783,
+                "Ios": 499
+            }
+        },
+        "1742542800000": {
+            "VISTOR_TYPE": {
+                "new": 2822,
+                "returning": 13334,
+                "loyal": 6342,
+                "unknown": 12511
+            },
+            "MEDIUM": {
+                "direct": 7812,
+                "google": 8840,
+                "internal": 8254,
+                "links": 620,
+                "search": 10600,
+                "social": 280
+            },
+            "DEVICE": {
+                "Web": 16132,
+                "Mweb": 4418,
+                "Amp": 12499,
+                "Android": 796,
+                "Ios": 536
+            }
+        },
+        "1742543400000": {
+            "VISTOR_TYPE": {
+                "new": 2845,
+                "returning": 13420,
+                "loyal": 6125,
+                "unknown": 12293
+            },
+            "MEDIUM": {
+                "direct": 8025,
+                "google": 8499,
+                "internal": 8112,
+                "links": 569,
+                "search": 10548,
+                "social": 289
+            },
+            "DEVICE": {
+                "Web": 15661,
+                "Mweb": 4533,
+                "Amp": 12286,
+                "Android": 969,
+                "Ios": 654
+            }
+        },
+        "1742544000000": {
+            "VISTOR_TYPE": {
+                "new": 2814,
+                "returning": 13325,
+                "loyal": 6171,
+                "unknown": 12490
+            },
+            "MEDIUM": {
+                "direct": 7912,
+                "google": 8572,
+                "internal": 8265,
+                "links": 572,
+                "search": 10706,
+                "social": 252
+            },
+            "DEVICE": {
+                "Web": 15558,
+                "Mweb": 4758,
+                "Amp": 12480,
+                "Android": 845,
+                "Ios": 527
+            }
+        },
+        "1742544600000": {
+            "VISTOR_TYPE": {
+                "new": 2730,
+                "returning": 13182,
+                "loyal": 6216,
+                "unknown": 12664
+            },
+            "MEDIUM": {
+                "direct": 8047,
+                "google": 8847,
+                "internal": 8080,
+                "links": 595,
+                "search": 10411,
+                "social": 258
+            },
+            "DEVICE": {
+                "Web": 15425,
+                "Mweb": 4720,
+                "Amp": 12658,
+                "Android": 853,
+                "Ios": 561
+            }
+        },
+        "1742545200000": {
+            "VISTOR_TYPE": {
+                "new": 2861,
+                "returning": 13276,
+                "loyal": 6186,
+                "unknown": 12515
+            },
+            "MEDIUM": {
+                "direct": 8190,
+                "google": 8562,
+                "internal": 8205,
+                "links": 571,
+                "search": 10480,
+                "social": 256
+            },
+            "DEVICE": {
+                "Web": 15196,
+                "Mweb": 4729,
+                "Amp": 12509,
+                "Android": 1070,
+                "Ios": 710
+            }
+        },
+        "1742545800000": {
+            "VISTOR_TYPE": {
+                "new": 2768,
+                "returning": 13117,
+                "loyal": 6006,
+                "unknown": 12701
+            },
+            "MEDIUM": {
+                "direct": 7856,
+                "google": 8885,
+                "internal": 8073,
+                "links": 586,
+                "search": 10348,
+                "social": 221
+            },
+            "DEVICE": {
+                "Web": 15350,
+                "Mweb": 4514,
+                "Amp": 12694,
+                "Android": 862,
+                "Ios": 558
+            }
+        },
+        "1742546400000": {
+            "VISTOR_TYPE": {
+                "new": 2678,
+                "returning": 12932,
+                "loyal": 6202,
+                "unknown": 12478
+            },
+            "MEDIUM": {
+                "direct": 7767,
+                "google": 8685,
+                "internal": 8220,
+                "links": 609,
+                "search": 10345,
+                "social": 268
+            },
+            "DEVICE": {
+                "Web": 15343,
+                "Mweb": 4586,
+                "Amp": 12474,
+                "Android": 813,
+                "Ios": 531
+            }
+        },
+        "1742547000000": {
+            "VISTOR_TYPE": {
+                "new": 2737,
+                "returning": 13175,
+                "loyal": 6257,
+                "unknown": 12455
+            },
+            "MEDIUM": {
+                "direct": 7804,
+                "google": 8838,
+                "internal": 8283,
+                "links": 581,
+                "search": 10408,
+                "social": 237
+            },
+            "DEVICE": {
+                "Web": 15483,
+                "Mweb": 4570,
+                "Amp": 12449,
+                "Android": 889,
+                "Ios": 621
+            }
+        },
+        "1742547600000": {
+            "VISTOR_TYPE": {
+                "new": 2942,
+                "returning": 13240,
+                "loyal": 6259,
+                "unknown": 12580
+            },
+            "MEDIUM": {
+                "direct": 8000,
+                "google": 8910,
+                "internal": 8302,
+                "links": 597,
+                "search": 10448,
+                "social": 263
+            },
+            "DEVICE": {
+                "Web": 15598,
+                "Mweb": 4935,
+                "Amp": 12573,
+                "Android": 792,
+                "Ios": 493
+            }
+        },
+        "1742548200000": {
+            "VISTOR_TYPE": {
+                "new": 2783,
+                "returning": 13220,
+                "loyal": 6172,
+                "unknown": 12576
+            },
+            "MEDIUM": {
+                "direct": 7930,
+                "google": 8849,
+                "internal": 8097,
+                "links": 616,
+                "search": 10508,
+                "social": 246
+            },
+            "DEVICE": {
+                "Web": 15507,
+                "Mweb": 4586,
+                "Amp": 12548,
+                "Android": 921,
+                "Ios": 565
+            }
+        },
+        "1742548800000": {
+            "VISTOR_TYPE": {
+                "new": 2788,
+                "returning": 13422,
+                "loyal": 6215,
+                "unknown": 12462
+            },
+            "MEDIUM": {
+                "direct": 7993,
+                "google": 8814,
+                "internal": 8138,
+                "links": 631,
+                "search": 10487,
+                "social": 277
+            },
+            "DEVICE": {
+                "Web": 15638,
+                "Mweb": 4690,
+                "Amp": 12441,
+                "Android": 916,
+                "Ios": 573
+            }
+        },
+        "1742549400000": {
+            "VISTOR_TYPE": {
+                "new": 2746,
+                "returning": 13365,
+                "loyal": 6266,
+                "unknown": 12774
+            },
+            "MEDIUM": {
+                "direct": 7961,
+                "google": 8927,
+                "internal": 8186,
+                "links": 611,
+                "search": 10665,
+                "social": 240
+            },
+            "DEVICE": {
+                "Web": 15989,
+                "Mweb": 4407,
+                "Amp": 12750,
+                "Android": 793,
+                "Ios": 544
+            }
+        },
+        "1742550000000": {
+            "VISTOR_TYPE": {
+                "new": 2783,
+                "returning": 13141,
+                "loyal": 6229,
+                "unknown": 12427
+            },
+            "MEDIUM": {
+                "direct": 7707,
+                "google": 8689,
+                "internal": 8058,
+                "links": 616,
+                "search": 10578,
+                "social": 281
+            },
+            "DEVICE": {
+                "Web": 15724,
+                "Mweb": 4513,
+                "Amp": 12405,
+                "Android": 806,
+                "Ios": 518
+            }
+        },
+        "1742550600000": {
+            "VISTOR_TYPE": {
+                "new": 2884,
+                "returning": 13388,
+                "loyal": 6162,
+                "unknown": 12571
+            },
+            "MEDIUM": {
+                "direct": 7993,
+                "google": 8828,
+                "internal": 7982,
+                "links": 587,
+                "search": 10695,
+                "social": 263
+            },
+            "DEVICE": {
+                "Web": 15619,
+                "Mweb": 4542,
+                "Amp": 12556,
+                "Android": 965,
+                "Ios": 664
+            }
+        },
+        "1742551200000": {
+            "VISTOR_TYPE": {
+                "new": 2745,
+                "returning": 13103,
+                "loyal": 6259,
+                "unknown": 12460
+            },
+            "MEDIUM": {
+                "direct": 7802,
+                "google": 8741,
+                "internal": 8072,
+                "links": 593,
+                "search": 10610,
+                "social": 250
+            },
+            "DEVICE": {
+                "Web": 15591,
+                "Mweb": 4649,
+                "Amp": 12429,
+                "Android": 799,
+                "Ios": 518
+            }
+        },
+        "1742551800000": {
+            "VISTOR_TYPE": {
+                "new": 2732,
+                "returning": 13174,
+                "loyal": 6206,
+                "unknown": 12754
+            },
+            "MEDIUM": {
+                "direct": 7918,
+                "google": 8835,
+                "internal": 8052,
+                "links": 567,
+                "search": 10749,
+                "social": 272
+            },
+            "DEVICE": {
+                "Web": 15555,
+                "Mweb": 4545,
+                "Amp": 12728,
+                "Android": 789,
+                "Ios": 611
+            }
+        },
+        "1742552400000": {
+            "VISTOR_TYPE": {
+                "new": 2955,
+                "returning": 13494,
+                "loyal": 6270,
+                "unknown": 12852
+            },
+            "MEDIUM": {
+                "direct": 8182,
+                "google": 8952,
+                "internal": 8090,
+                "links": 590,
+                "search": 10832,
+                "social": 253
+            },
+            "DEVICE": {
+                "Web": 15698,
+                "Mweb": 4843,
+                "Amp": 12827,
+                "Android": 846,
+                "Ios": 598
+            }
+        },
+        "1742553000000": {
+            "VISTOR_TYPE": {
+                "new": 2830,
+                "returning": 13199,
+                "loyal": 6336,
+                "unknown": 12972
+            },
+            "MEDIUM": {
+                "direct": 7984,
+                "google": 9130,
+                "internal": 7972,
+                "links": 599,
+                "search": 10816,
+                "social": 245
+            },
+            "DEVICE": {
+                "Web": 15566,
+                "Mweb": 4732,
+                "Amp": 12951,
+                "Android": 899,
+                "Ios": 570
+            }
+        },
+        "1742553600000": {
+            "VISTOR_TYPE": {
+                "new": 2636,
+                "returning": 13188,
+                "loyal": 6254,
+                "unknown": 13025
+            },
+            "MEDIUM": {
+                "direct": 8011,
+                "google": 9063,
+                "internal": 7870,
+                "links": 540,
+                "search": 10818,
+                "social": 221
+            },
+            "DEVICE": {
+                "Web": 15343,
+                "Mweb": 4707,
+                "Amp": 13008,
+                "Android": 878,
+                "Ios": 616
+            }
+        },
+        "1742554200000": {
+            "VISTOR_TYPE": {
+                "new": 2793,
+                "returning": 13245,
+                "loyal": 6126,
+                "unknown": 13088
+            },
+            "MEDIUM": {
+                "direct": 8165,
+                "google": 8914,
+                "internal": 7861,
+                "links": 558,
+                "search": 10888,
+                "social": 230
+            },
+            "DEVICE": {
+                "Web": 15104,
+                "Mweb": 4801,
+                "Amp": 13071,
+                "Android": 967,
+                "Ios": 655
+            }
+        },
+        "1742554800000": {
+            "VISTOR_TYPE": {
+                "new": 3211,
+                "returning": 13339,
+                "loyal": 6207,
+                "unknown": 13367
+            },
+            "MEDIUM": {
+                "direct": 8416,
+                "google": 9058,
+                "internal": 8162,
+                "links": 570,
+                "search": 11173,
+                "social": 231
+            },
+            "DEVICE": {
+                "Web": 15622,
+                "Mweb": 5008,
+                "Amp": 13349,
+                "Android": 759,
+                "Ios": 582
+            }
+        },
+        "1742555400000": {
+            "VISTOR_TYPE": {
+                "new": 2823,
+                "returning": 12983,
+                "loyal": 6085,
+                "unknown": 13204
+            },
+            "MEDIUM": {
+                "direct": 7849,
+                "google": 9144,
+                "internal": 7813,
+                "links": 530,
+                "search": 10920,
+                "social": 242
+            },
+            "DEVICE": {
+                "Web": 14939,
+                "Mweb": 4882,
+                "Amp": 13189,
+                "Android": 817,
+                "Ios": 641
+            }
+        },
+        "1742556000000": {
+            "VISTOR_TYPE": {
+                "new": 2876,
+                "returning": 13272,
+                "loyal": 6132,
+                "unknown": 13606
+            },
+            "MEDIUM": {
+                "direct": 8484,
+                "google": 9128,
+                "internal": 7811,
+                "links": 556,
+                "search": 11106,
+                "social": 222
+            },
+            "DEVICE": {
+                "Web": 14662,
+                "Mweb": 5024,
+                "Amp": 13594,
+                "Android": 1041,
+                "Ios": 935
+            }
+        },
+        "1742556600000": {
+            "VISTOR_TYPE": {
+                "new": 2763,
+                "returning": 12803,
+                "loyal": 6068,
+                "unknown": 13573
+            },
+            "MEDIUM": {
+                "direct": 7851,
+                "google": 9343,
+                "internal": 7708,
+                "links": 572,
+                "search": 11020,
+                "social": 216
+            },
+            "DEVICE": {
+                "Web": 14602,
+                "Mweb": 4956,
+                "Amp": 13566,
+                "Android": 836,
+                "Ios": 676
+            }
+        },
+        "1742557200000": {
+            "VISTOR_TYPE": {
+                "new": 2701,
+                "returning": 12546,
+                "loyal": 6023,
+                "unknown": 13247
+            },
+            "MEDIUM": {
+                "direct": 7768,
+                "google": 9035,
+                "internal": 7519,
+                "links": 547,
+                "search": 10845,
+                "social": 234
+            },
+            "DEVICE": {
+                "Web": 14160,
+                "Mweb": 5091,
+                "Amp": 13243,
+                "Android": 802,
+                "Ios": 630
+            }
+        },
+        "1742557800000": {
+            "VISTOR_TYPE": {
+                "new": 2862,
+                "returning": 12756,
+                "loyal": 5902,
+                "unknown": 13418
+            },
+            "MEDIUM": {
+                "direct": 8450,
+                "google": 8926,
+                "internal": 7396,
+                "links": 506,
+                "search": 10797,
+                "social": 212
+            },
+            "DEVICE": {
+                "Web": 13858,
+                "Mweb": 4922,
+                "Amp": 13413,
+                "Android": 1228,
+                "Ios": 917
+            }
+        },
+        "1742558400000": {
+            "VISTOR_TYPE": {
+                "new": 2827,
+                "returning": 12387,
+                "loyal": 5825,
+                "unknown": 13541
+            },
+            "MEDIUM": {
+                "direct": 7908,
+                "google": 9123,
+                "internal": 7378,
+                "links": 504,
+                "search": 10741,
+                "social": 204
+            },
+            "DEVICE": {
+                "Web": 13784,
+                "Mweb": 4878,
+                "Amp": 13539,
+                "Android": 1100,
+                "Ios": 627
+            }
+        },
+        "1742559000000": {
+            "VISTOR_TYPE": {
+                "new": 2630,
+                "returning": 11778,
+                "loyal": 5548,
+                "unknown": 13865
+            },
+            "MEDIUM": {
+                "direct": 7516,
+                "google": 9341,
+                "internal": 7077,
+                "links": 482,
+                "search": 10537,
+                "social": 206
+            },
+            "DEVICE": {
+                "Web": 13117,
+                "Mweb": 4766,
+                "Amp": 13852,
+                "Android": 886,
+                "Ios": 628
+            }
+        },
+        "1742559600000": {
+            "VISTOR_TYPE": {
+                "new": 2831,
+                "returning": 11956,
+                "loyal": 5604,
+                "unknown": 13901
+            },
+            "MEDIUM": {
+                "direct": 7986,
+                "google": 9305,
+                "internal": 6996,
+                "links": 476,
+                "search": 10598,
+                "social": 186
+            },
+            "DEVICE": {
+                "Web": 12901,
+                "Mweb": 5218,
+                "Amp": 13885,
+                "Android": 1000,
+                "Ios": 707
+            }
+        },
+        "1742560200000": {
+            "VISTOR_TYPE": {
+                "new": 2544,
+                "returning": 11562,
+                "loyal": 5503,
+                "unknown": 13690
+            },
+            "MEDIUM": {
+                "direct": 7544,
+                "google": 9316,
+                "internal": 6862,
+                "links": 467,
+                "search": 10231,
+                "social": 169
+            },
+            "DEVICE": {
+                "Web": 12629,
+                "Mweb": 4967,
+                "Amp": 13674,
+                "Android": 831,
+                "Ios": 634
+            }
+        },
+        "1742560800000": {
+            "VISTOR_TYPE": {
+                "new": 2576,
+                "returning": 11371,
+                "loyal": 5355,
+                "unknown": 13411
+            },
+            "MEDIUM": {
+                "direct": 7413,
+                "google": 9063,
+                "internal": 6846,
+                "links": 462,
+                "search": 10056,
+                "social": 188
+            },
+            "DEVICE": {
+                "Web": 12114,
+                "Mweb": 5019,
+                "Amp": 13404,
+                "Android": 910,
+                "Ios": 667
+            }
+        },
+        "1742561400000": {
+            "VISTOR_TYPE": {
+                "new": 2536,
+                "returning": 11699,
+                "loyal": 5330,
+                "unknown": 13697
+            },
+            "MEDIUM": {
+                "direct": 7945,
+                "google": 9079,
+                "internal": 6767,
+                "links": 448,
+                "search": 10179,
+                "social": 179
+            },
+            "DEVICE": {
+                "Web": 11842,
+                "Mweb": 5144,
+                "Amp": 13691,
+                "Android": 1098,
+                "Ios": 903
+            }
+        },
+        "1742562000000": {
+            "VISTOR_TYPE": {
+                "new": 2529,
+                "returning": 11015,
+                "loyal": 5258,
+                "unknown": 13579
+            },
+            "MEDIUM": {
+                "direct": 7407,
+                "google": 9088,
+                "internal": 6651,
+                "links": 439,
+                "search": 9858,
+                "social": 178
+            },
+            "DEVICE": {
+                "Web": 11664,
+                "Mweb": 4989,
+                "Amp": 13572,
+                "Android": 902,
+                "Ios": 644
+            }
+        },
+        "1742562600000": {
+            "VISTOR_TYPE": {
+                "new": 2410,
+                "returning": 10680,
+                "loyal": 5114,
+                "unknown": 13678
+            },
+            "MEDIUM": {
+                "direct": 7285,
+                "google": 9124,
+                "internal": 6415,
+                "links": 413,
+                "search": 9716,
+                "social": 157
+            },
+            "DEVICE": {
+                "Web": 11164,
+                "Mweb": 5042,
+                "Amp": 13672,
+                "Android": 871,
+                "Ios": 590
+            }
+        },
+        "1742563200000": {
+            "VISTOR_TYPE": {
+                "new": 2436,
+                "returning": 11040,
+                "loyal": 5085,
+                "unknown": 13986
+            },
+            "MEDIUM": {
+                "direct": 7789,
+                "google": 9375,
+                "internal": 6380,
+                "links": 415,
+                "search": 9644,
+                "social": 169
+            },
+            "DEVICE": {
+                "Web": 10972,
+                "Mweb": 5086,
+                "Amp": 13982,
+                "Android": 1075,
+                "Ios": 862
+            }
+        },
+        "1742563800000": {
+            "VISTOR_TYPE": {
+                "new": 2404,
+                "returning": 10548,
+                "loyal": 5089,
+                "unknown": 13853
+            },
+            "MEDIUM": {
+                "direct": 7349,
+                "google": 9364,
+                "internal": 6270,
+                "links": 435,
+                "search": 9601,
+                "social": 154
+            },
+            "DEVICE": {
+                "Web": 10961,
+                "Mweb": 5081,
+                "Amp": 13848,
+                "Android": 806,
+                "Ios": 667
+            }
+        },
+        "1742564400000": {
+            "VISTOR_TYPE": {
+                "new": 2347,
+                "returning": 10148,
+                "loyal": 4914,
+                "unknown": 14169
+            },
+            "MEDIUM": {
+                "direct": 7166,
+                "google": 9322,
+                "internal": 5985,
+                "links": 447,
+                "search": 9668,
+                "social": 143
+            },
+            "DEVICE": {
+                "Web": 10504,
+                "Mweb": 4968,
+                "Amp": 14165,
+                "Android": 846,
+                "Ios": 590
+            }
+        },
+        "1742565000000": {
+            "VISTOR_TYPE": {
+                "new": 2596,
+                "returning": 10429,
+                "loyal": 4807,
+                "unknown": 14430
+            },
+            "MEDIUM": {
+                "direct": 7496,
+                "google": 9510,
+                "internal": 6022,
+                "links": 471,
+                "search": 9730,
+                "social": 158
+            },
+            "DEVICE": {
+                "Web": 10375,
+                "Mweb": 5154,
+                "Amp": 14426,
+                "Android": 987,
+                "Ios": 733
+            }
+        },
+        "1742565600000": {
+            "VISTOR_TYPE": {
+                "new": 2381,
+                "returning": 10087,
+                "loyal": 4802,
+                "unknown": 14016
+            },
+            "MEDIUM": {
+                "direct": 7057,
+                "google": 9166,
+                "internal": 5918,
+                "links": 441,
+                "search": 9687,
+                "social": 138
+            },
+            "DEVICE": {
+                "Web": 10313,
+                "Mweb": 5036,
+                "Amp": 14010,
+                "Android": 781,
+                "Ios": 623
+            }
+        },
+        "1742566200000": {
+            "VISTOR_TYPE": {
+                "new": 2314,
+                "returning": 9853,
+                "loyal": 4663,
+                "unknown": 14160
+            },
+            "MEDIUM": {
+                "direct": 6916,
+                "google": 9111,
+                "internal": 5698,
+                "links": 449,
+                "search": 9702,
+                "social": 145
+            },
+            "DEVICE": {
+                "Web": 10026,
+                "Mweb": 4927,
+                "Amp": 14155,
+                "Android": 777,
+                "Ios": 606
+            }
+        },
+        "1742566800000": {
+            "VISTOR_TYPE": {
+                "new": 2488,
+                "returning": 9953,
+                "loyal": 4665,
+                "unknown": 14173
+            },
+            "MEDIUM": {
+                "direct": 7116,
+                "google": 9051,
+                "internal": 5773,
+                "links": 423,
+                "search": 9853,
+                "social": 158
+            },
+            "DEVICE": {
+                "Web": 10083,
+                "Mweb": 5028,
+                "Amp": 14168,
+                "Android": 886,
+                "Ios": 568
+            }
+        },
+        "1742567400000": {
+            "VISTOR_TYPE": {
+                "new": 2264,
+                "returning": 9619,
+                "loyal": 4574,
+                "unknown": 14075
+            },
+            "MEDIUM": {
+                "direct": 6727,
+                "google": 8987,
+                "internal": 5606,
+                "links": 443,
+                "search": 9705,
+                "social": 152
+            },
+            "DEVICE": {
+                "Web": 9847,
+                "Mweb": 4837,
+                "Amp": 14074,
+                "Android": 724,
+                "Ios": 534
+            }
+        },
+        "1742568000000": {
+            "VISTOR_TYPE": {
+                "new": 2324,
+                "returning": 9599,
+                "loyal": 4398,
+                "unknown": 13887
+            },
+            "MEDIUM": {
+                "direct": 6759,
+                "google": 8905,
+                "internal": 5477,
+                "links": 396,
+                "search": 9523,
+                "social": 144
+            },
+            "DEVICE": {
+                "Web": 9497,
+                "Mweb": 4974,
+                "Amp": 13881,
+                "Android": 784,
+                "Ios": 531
+            }
+        },
+        "1742568600000": {
+            "VISTOR_TYPE": {
+                "new": 2465,
+                "returning": 9737,
+                "loyal": 4479,
+                "unknown": 13882
+            },
+            "MEDIUM": {
+                "direct": 6972,
+                "google": 8989,
+                "internal": 5503,
+                "links": 419,
+                "search": 9592,
+                "social": 151
+            },
+            "DEVICE": {
+                "Web": 9487,
+                "Mweb": 5034,
+                "Amp": 13876,
+                "Android": 983,
+                "Ios": 662
+            }
+        },
+        "1742569200000": {
+            "VISTOR_TYPE": {
+                "new": 2310,
+                "returning": 9368,
+                "loyal": 4447,
+                "unknown": 13544
+            },
+            "MEDIUM": {
+                "direct": 6613,
+                "google": 8777,
+                "internal": 5532,
+                "links": 396,
+                "search": 9315,
+                "social": 136
+            },
+            "DEVICE": {
+                "Web": 9392,
+                "Mweb": 4874,
+                "Amp": 13539,
+                "Android": 761,
+                "Ios": 565
+            }
+        },
+        "1742569800000": {
+            "VISTOR_TYPE": {
+                "new": 2240,
+                "returning": 9246,
+                "loyal": 4327,
+                "unknown": 13293
+            },
+            "MEDIUM": {
+                "direct": 6440,
+                "google": 8523,
+                "internal": 5443,
+                "links": 381,
+                "search": 9240,
+                "social": 131
+            },
+            "DEVICE": {
+                "Web": 9090,
+                "Mweb": 4910,
+                "Amp": 13287,
+                "Android": 776,
+                "Ios": 563
+            }
+        },
+        "1742570400000": {
+            "VISTOR_TYPE": {
+                "new": 2302,
+                "returning": 9078,
+                "loyal": 4257,
+                "unknown": 13355
+            },
+            "MEDIUM": {
+                "direct": 6260,
+                "google": 8491,
+                "internal": 5412,
+                "links": 375,
+                "search": 9361,
+                "social": 131
+            },
+            "DEVICE": {
+                "Web": 9035,
+                "Mweb": 4849,
+                "Amp": 13344,
+                "Android": 750,
+                "Ios": 537
+            }
+        },
+        "1742571000000": {
+            "VISTOR_TYPE": {
+                "new": 2185,
+                "returning": 9004,
+                "loyal": 4234,
+                "unknown": 13116
+            },
+            "MEDIUM": {
+                "direct": 6167,
+                "google": 8299,
+                "internal": 5382,
+                "links": 420,
+                "search": 9237,
+                "social": 136
+            },
+            "DEVICE": {
+                "Web": 8889,
+                "Mweb": 4755,
+                "Amp": 13109,
+                "Android": 728,
+                "Ios": 551
+            }
+        },
+        "1742571600000": {
+            "VISTOR_TYPE": {
+                "new": 2266,
+                "returning": 8929,
+                "loyal": 4082,
+                "unknown": 13126
+            },
+            "MEDIUM": {
+                "direct": 6125,
+                "google": 8216,
+                "internal": 5235,
+                "links": 415,
+                "search": 9270,
+                "social": 132
+            },
+            "DEVICE": {
+                "Web": 8799,
+                "Mweb": 4710,
+                "Amp": 13120,
+                "Android": 754,
+                "Ios": 536
+            }
+        },
+        "1742572200000": {
+            "VISTOR_TYPE": {
+                "new": 2424,
+                "returning": 9247,
+                "loyal": 4041,
+                "unknown": 13049
+            },
+            "MEDIUM": {
+                "direct": 6793,
+                "google": 8102,
+                "internal": 5158,
+                "links": 403,
+                "search": 9118,
+                "social": 141
+            },
+            "DEVICE": {
+                "Web": 8535,
+                "Mweb": 4764,
+                "Amp": 13046,
+                "Android": 1002,
+                "Ios": 884
+            }
+        },
+        "1742572800000": {
+            "VISTOR_TYPE": {
+                "new": 2172,
+                "returning": 8774,
+                "loyal": 4019,
+                "unknown": 13121
+            },
+            "MEDIUM": {
+                "direct": 6122,
+                "google": 8164,
+                "internal": 5105,
+                "links": 395,
+                "search": 9174,
+                "social": 118
+            },
+            "DEVICE": {
+                "Web": 8455,
+                "Mweb": 4678,
+                "Amp": 13115,
+                "Android": 726,
+                "Ios": 615
+            }
+        },
+        "1742573400000": {
+            "VISTOR_TYPE": {
+                "new": 2215,
+                "returning": 8879,
+                "loyal": 3931,
+                "unknown": 13063
+            },
+            "MEDIUM": {
+                "direct": 6368,
+                "google": 8101,
+                "internal": 5023,
+                "links": 400,
+                "search": 9058,
+                "social": 142
+            },
+            "DEVICE": {
+                "Web": 8314,
+                "Mweb": 4688,
+                "Amp": 13060,
+                "Android": 912,
+                "Ios": 623
+            }
+        },
+        "1742574000000": {
+            "VISTOR_TYPE": {
+                "new": 2212,
+                "returning": 8789,
+                "loyal": 3844,
+                "unknown": 12989
+            },
+            "MEDIUM": {
+                "direct": 6196,
+                "google": 7948,
+                "internal": 4908,
+                "links": 405,
+                "search": 9203,
+                "social": 112
+            },
+            "DEVICE": {
+                "Web": 8170,
+                "Mweb": 4699,
+                "Amp": 12982,
+                "Android": 879,
+                "Ios": 617
+            }
+        },
+        "1742574600000": {
+            "VISTOR_TYPE": {
+                "new": 2164,
+                "returning": 8412,
+                "loyal": 3802,
+                "unknown": 13118
+            },
+            "MEDIUM": {
+                "direct": 5880,
+                "google": 7984,
+                "internal": 4844,
+                "links": 395,
+                "search": 9223,
+                "social": 114
+            },
+            "DEVICE": {
+                "Web": 8026,
+                "Mweb": 4575,
+                "Amp": 13114,
+                "Android": 766,
+                "Ios": 550
+            }
+        },
+        "1742575200000": {
+            "VISTOR_TYPE": {
+                "new": 2093,
+                "returning": 8530,
+                "loyal": 3707,
+                "unknown": 12828
+            },
+            "MEDIUM": {
+                "direct": 5832,
+                "google": 7960,
+                "internal": 4854,
+                "links": 380,
+                "search": 8922,
+                "social": 141
+            },
+            "DEVICE": {
+                "Web": 7986,
+                "Mweb": 4540,
+                "Amp": 12823,
+                "Android": 786,
+                "Ios": 567
+            }
+        },
+        "1742575800000": {
+            "VISTOR_TYPE": {
+                "new": 2259,
+                "returning": 8793,
+                "loyal": 3725,
+                "unknown": 12948
+            },
+            "MEDIUM": {
+                "direct": 6079,
+                "google": 7988,
+                "internal": 4996,
+                "links": 387,
+                "search": 9147,
+                "social": 139
+            },
+            "DEVICE": {
+                "Web": 8078,
+                "Mweb": 4694,
+                "Amp": 12941,
+                "Android": 862,
+                "Ios": 660
+            }
+        },
+        "1742576400000": {
+            "VISTOR_TYPE": {
+                "new": 2136,
+                "returning": 8270,
+                "loyal": 3633,
+                "unknown": 12925
+            },
+            "MEDIUM": {
+                "direct": 5616,
+                "google": 7905,
+                "internal": 4801,
+                "links": 377,
+                "search": 9058,
+                "social": 127
+            },
+            "DEVICE": {
+                "Web": 7761,
+                "Mweb": 4585,
+                "Amp": 12924,
+                "Android": 741,
+                "Ios": 488
+            }
+        },
+        "1742577000000": {
+            "VISTOR_TYPE": {
+                "new": 2029,
+                "returning": 8100,
+                "loyal": 3427,
+                "unknown": 12592
+            },
+            "MEDIUM": {
+                "direct": 5576,
+                "google": 7691,
+                "internal": 4603,
+                "links": 382,
+                "search": 8660,
+                "social": 143
+            },
+            "DEVICE": {
+                "Web": 7454,
+                "Mweb": 4369,
+                "Amp": 12587,
+                "Android": 734,
+                "Ios": 570
+            }
+        },
+        "1742577600000": {
+            "VISTOR_TYPE": {
+                "new": 2114,
+                "returning": 7911,
+                "loyal": 3336,
+                "unknown": 12365
+            },
+            "MEDIUM": {
+                "direct": 5608,
+                "google": 7482,
+                "internal": 4433,
+                "links": 383,
+                "search": 8587,
+                "social": 148
+            },
+            "DEVICE": {
+                "Web": 7320,
+                "Mweb": 4282,
+                "Amp": 12360,
+                "Android": 771,
+                "Ios": 571
+            }
+        },
+        "1742578200000": {
+            "VISTOR_TYPE": {
+                "new": 1947,
+                "returning": 7626,
+                "loyal": 3242,
+                "unknown": 12188
+            },
+            "MEDIUM": {
+                "direct": 5159,
+                "google": 7284,
+                "internal": 4308,
+                "links": 357,
+                "search": 8645,
+                "social": 137
+            },
+            "DEVICE": {
+                "Web": 7111,
+                "Mweb": 4176,
+                "Amp": 12185,
+                "Android": 665,
+                "Ios": 475
+            }
+        },
+        "1742578800000": {
+            "VISTOR_TYPE": {
+                "new": 1882,
+                "returning": 7537,
+                "loyal": 3222,
+                "unknown": 11840
+            },
+            "MEDIUM": {
+                "direct": 5167,
+                "google": 6992,
+                "internal": 4235,
+                "links": 358,
+                "search": 8527,
+                "social": 123
+            },
+            "DEVICE": {
+                "Web": 6986,
+                "Mweb": 4164,
+                "Amp": 11837,
+                "Android": 645,
+                "Ios": 468
+            }
+        },
+        "1742579400000": {
+            "VISTOR_TYPE": {
+                "new": 2002,
+                "returning": 7525,
+                "loyal": 3018,
+                "unknown": 11380
+            },
+            "MEDIUM": {
+                "direct": 5152,
+                "google": 6944,
+                "internal": 4075,
+                "links": 341,
+                "search": 8153,
+                "social": 124
+            },
+            "DEVICE": {
+                "Web": 6741,
+                "Mweb": 4207,
+                "Amp": 11374,
+                "Android": 678,
+                "Ios": 514
+            }
+        },
+        "1742580000000": {
+            "VISTOR_TYPE": {
+                "new": 1793,
+                "returning": 7149,
+                "loyal": 2977,
+                "unknown": 11021
+            },
+            "MEDIUM": {
+                "direct": 4788,
+                "google": 6739,
+                "internal": 4020,
+                "links": 335,
+                "search": 7865,
+                "social": 97
+            },
+            "DEVICE": {
+                "Web": 6462,
+                "Mweb": 4109,
+                "Amp": 11018,
+                "Android": 557,
+                "Ios": 437
+            }
+        },
+        "1742580600000": {
+            "VISTOR_TYPE": {
+                "new": 1796,
+                "returning": 6852,
+                "loyal": 2830,
+                "unknown": 10321
+            },
+            "MEDIUM": {
+                "direct": 4722,
+                "google": 6189,
+                "internal": 3787,
+                "links": 309,
+                "search": 7479,
+                "social": 117
+            },
+            "DEVICE": {
+                "Web": 6290,
+                "Mweb": 3826,
+                "Amp": 10317,
+                "Android": 573,
+                "Ios": 423
+            }
+        }
+    }
+}
